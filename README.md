@@ -1,4 +1,4 @@
-## Hello, World! 👋
+## Hey Hey 👋
 I'm Athanasia, a mathematician and MSc graduate in Data Science & Machine Learning who enjoys building tools that make complex information easier to explore.
 My work sits somewhere between data science, machine learning, visualisation, and interactive web technologies.
 Curiosity has definitely shaped much of my journey, and continues to drive my interest in understanding how data, AI, and visualisation can work together to help people make sense of complex systems.
