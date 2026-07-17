@@ -1,24 +1,38 @@
 ## Hey Hey 👋
-I'm Athanasia, a mathematician and MSc graduate in Data Science & Machine Learning who enjoys building tools that make complex information easier to explore.
-My work sits somewhere between data science, machine learning, visualisation, and interactive web technologies.
-Curiosity has definitely shaped much of my journey, and continues to drive my interest in understanding how data, AI, and visualisation can work together to help people make sense of complex systems.
-I'm particularly interested in the intersection of data science, machine learning, visualisation, and interactive web technologies, where analytical thinking meets human-centred design.
+I'm Athanasia, a mathematician turned applied machine learning practitioner, exploring how AI, data, and interactive technologies can help people understand complex systems.
 
-I work mostly in Python and JavaScript. I'm comfortable in the full arc from data wrangling to a thing you can actually open in a browser.
+My background spans mathematics, data science, machine learning, visualisation, and creative technology. I enjoy building things that turn abstract information into experiences people can explore — from interactive data platforms and spatial visualisations to embodied AI prototypes.
 
----
+I am especially interested in the space where technology meets human needs: systems that do not just predict, but communicate, adapt, and help people make better sense of complex information.
+
+Beyond the technical challenges, I am motivated by working on problems that matter. I want my work to contribute to a deeper understanding of people, societies, and the world around us — whether through applications in areas such as healthcare, human rights, culture, or other domains where technology can support meaningful change.
+
+I mostly work with Python and JavaScript, moving between data analysis, machine learning models, and interactive web applications.
 
 ## Currently exploring
 
-* Human-centred AI
-* Interactive data visualization
-* Interpretable machine learning
-* Spatial computing
-* Data-driven web applications
+- Applied Machine Learning
+- Human-Centered AI
+- Interpretable Machine Learning
+- Interactive Data Visualisation
+- Spatial Computing
+- Data-driven Applications
 
-I'm always interested in projects that combine analytical thinking with interactive experiences.
+## Technologies
 
----
+**Languages**
 
-Open to roles in ML/Data Science, HCI/UX Research, and creative frontend — or anything that blurs those lines.  
+Python · JavaScript · SQL · HTML · CSS
+
+**Machine Learning & Data**
+
+scikit-learn · PyTorch · TensorFlow · Pandas · NumPy
+
+**Visualization & Frontend**
+
+React · Three.js · Mapbox GL JS · Streamlit
+
+## Let's connect
+
+I am always interested in conversations around AI, interactive systems, data visualisation, and projects that sit between technology and human experience.
 **Reach me:** [ath.lantouri@gmail.com](mailto:ath.lantouri@gmail.com)
